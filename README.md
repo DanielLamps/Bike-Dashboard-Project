@@ -9,12 +9,18 @@ Toman Bike Share, a bike-sharing company, is searching for a solution to forecas
 
 
 
+**INSIGHTS UNCOVERED**
+
+- Revenue, total riders and profit doubled from 2021 to 2022.
+- The peak season for both years was season 3.
+- The highest earning hours during the day was around 10-15 hours.
+- There was a 25% increase in pricing from 2021 ($3.99) to 2022 (4.99).
+
+
+
+
 **SUMMARY/RECOMMENDATION**
 
 
 
-**INSIGHTS UNCOVERED**
-
-- Revenue and total riders doubled from 2021 to 2022
-- The peak season for both years was season 3
-- The highest earning hours during the day w
+  
